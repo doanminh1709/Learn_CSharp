@@ -1,0 +1,115 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0-windows7.0": {
+      "DataGridView-AutoFilter/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net20/DataGridViewAutoFilter.dll": {}
+        },
+        "runtime": {
+          "lib/net20/DataGridViewAutoFilter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataGridView-AutoFilter/1.1.0": {
+      "sha512": "QPaTjR+Krge2K2Vv5jxMBNAKR0I1Z1xX+ML2C8PyVwnckyMwPFoZnjg7Lq6oHh4iWpAIHlPFapX59EVHW0wDsg==",
+      "type": "package",
+      "path": "datagridview-autofilter/1.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "datagridview-autofilter.1.1.0.nupkg.sha512",
+        "datagridview-autofilter.nuspec",
+        "icon/icon.png",
+        "lib/net20/DataGridViewAutoFilter.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0-windows7.0": [
+      "DataGridView-AutoFilter >= 1.1.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\CODETONGHOP\\Learn C#\\ThucHanhGui\\ThucHanhGui\\ThucHanhGui.csproj",
+      "projectName": "ThucHanhGui",
+      "projectPath": "D:\\CODETONGHOP\\Learn C#\\ThucHanhGui\\ThucHanhGui\\ThucHanhGui.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "D:\\CODETONGHOP\\Learn C#\\ThucHanhGui\\ThucHanhGui\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0-windows7.0": {
+        "targetAlias": "net7.0-windows",
+        "dependencies": {
+          "DataGridView-AutoFilter": {
+            "target": "Package",
+            "version": "[1.1.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'DataGridView-AutoFilter 1.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "DataGridView-AutoFilter",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    }
+  ]
+}

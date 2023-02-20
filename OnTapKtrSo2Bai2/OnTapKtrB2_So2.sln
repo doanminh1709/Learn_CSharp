@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnTapKtrB2_So2", "OnTapKtrB2_So2\OnTapKtrB2_So2.csproj", "{081D8165-0F4F-4DED-B703-1270079E52C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{081D8165-0F4F-4DED-B703-1270079E52C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{081D8165-0F4F-4DED-B703-1270079E52C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{081D8165-0F4F-4DED-B703-1270079E52C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{081D8165-0F4F-4DED-B703-1270079E52C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4483BCFA-338A-4D4B-9FCD-3F21B1C7766B}
+	EndGlobalSection
+EndGlobal

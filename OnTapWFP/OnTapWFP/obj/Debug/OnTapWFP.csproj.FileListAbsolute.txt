@@ -1,0 +1,11 @@
+D:\CODETONGHOP\Learn C#\OnTapWFP\OnTapWFP\bin\Debug\OnTapWFP.exe.config
+D:\CODETONGHOP\Learn C#\OnTapWFP\OnTapWFP\bin\Debug\OnTapWFP.exe
+D:\CODETONGHOP\Learn C#\OnTapWFP\OnTapWFP\bin\Debug\OnTapWFP.pdb
+D:\CODETONGHOP\Learn C#\OnTapWFP\OnTapWFP\obj\Debug\OnTapWFP.csproj.AssemblyReference.cache
+D:\CODETONGHOP\Learn C#\OnTapWFP\OnTapWFP\obj\Debug\OnTapWFP.csproj.SuggestedBindingRedirects.cache
+D:\CODETONGHOP\Learn C#\OnTapWFP\OnTapWFP\obj\Debug\OnTapWFP.Form1.resources
+D:\CODETONGHOP\Learn C#\OnTapWFP\OnTapWFP\obj\Debug\OnTapWFP.Properties.Resources.resources
+D:\CODETONGHOP\Learn C#\OnTapWFP\OnTapWFP\obj\Debug\OnTapWFP.csproj.GenerateResource.cache
+D:\CODETONGHOP\Learn C#\OnTapWFP\OnTapWFP\obj\Debug\OnTapWFP.csproj.CoreCompileInputs.cache
+D:\CODETONGHOP\Learn C#\OnTapWFP\OnTapWFP\obj\Debug\OnTapWFP.exe
+D:\CODETONGHOP\Learn C#\OnTapWFP\OnTapWFP\obj\Debug\OnTapWFP.pdb

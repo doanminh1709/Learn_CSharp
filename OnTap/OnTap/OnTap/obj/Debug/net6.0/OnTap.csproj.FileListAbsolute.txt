@@ -1,0 +1,15 @@
+C:\OnTap\OnTap\bin\Debug\net6.0\OnTap.exe
+C:\OnTap\OnTap\bin\Debug\net6.0\OnTap.deps.json
+C:\OnTap\OnTap\bin\Debug\net6.0\OnTap.runtimeconfig.json
+C:\OnTap\OnTap\bin\Debug\net6.0\OnTap.dll
+C:\OnTap\OnTap\bin\Debug\net6.0\OnTap.pdb
+C:\OnTap\OnTap\obj\Debug\net6.0\OnTap.csproj.AssemblyReference.cache
+C:\OnTap\OnTap\obj\Debug\net6.0\OnTap.GeneratedMSBuildEditorConfig.editorconfig
+C:\OnTap\OnTap\obj\Debug\net6.0\OnTap.AssemblyInfoInputs.cache
+C:\OnTap\OnTap\obj\Debug\net6.0\OnTap.AssemblyInfo.cs
+C:\OnTap\OnTap\obj\Debug\net6.0\OnTap.csproj.CoreCompileInputs.cache
+C:\OnTap\OnTap\obj\Debug\net6.0\OnTap.dll
+C:\OnTap\OnTap\obj\Debug\net6.0\refint\OnTap.dll
+C:\OnTap\OnTap\obj\Debug\net6.0\OnTap.pdb
+C:\OnTap\OnTap\obj\Debug\net6.0\OnTap.genruntimeconfig.cache
+C:\OnTap\OnTap\obj\Debug\net6.0\ref\OnTap.dll

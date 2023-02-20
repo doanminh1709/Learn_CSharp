@@ -1,0 +1,42 @@
+C:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+C:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+D:\CODETONGHOP\Learn C#\WpfApp1\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+D:\CODETONGHOP\Learn C#\WpfApp1\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+D:\CODETONGHOP\Learn C#\WpfApp1\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+D:\CODETONGHOP\Learn C#\WpfApp1\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+D:\CODETONGHOP\Learn C#\WpfApp1\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+D:\CODETONGHOP\Learn C#\WpfApp1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+D:\CODETONGHOP\Learn C#\WpfApp1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\CODETONGHOP\Learn C#\WpfApp1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+D:\CODETONGHOP\Learn C#\WpfApp1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+D:\CODETONGHOP\Learn C#\WpfApp1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+D:\CODETONGHOP\Learn C#\WpfApp1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+D:\CODETONGHOP\Learn C#\WpfApp1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+D:\CODETONGHOP\Learn C#\WpfApp1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODETONGHOP\Learn C#\WpfApp1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\CODETONGHOP\Learn C#\WpfApp1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+D:\CODETONGHOP\Learn C#\WpfApp1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\CODETONGHOP\Learn C#\WpfApp1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+D:\CODETONGHOP\Learn C#\WpfApp1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+D:\CODETONGHOP\Learn C#\WpfApp1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+D:\CODETONGHOP\Learn C#\WpfApp1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+D:\CODETONGHOP\Learn C#\WpfApp1\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll

@@ -1,0 +1,15 @@
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\DocGhiFile\bin\Debug\net6.0\DocGhiFile.exe
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\DocGhiFile\bin\Debug\net6.0\DocGhiFile.deps.json
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\DocGhiFile\bin\Debug\net6.0\DocGhiFile.runtimeconfig.json
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\DocGhiFile\bin\Debug\net6.0\DocGhiFile.dll
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\DocGhiFile\bin\Debug\net6.0\DocGhiFile.pdb
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\DocGhiFile\obj\Debug\net6.0\DocGhiFile.csproj.AssemblyReference.cache
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\DocGhiFile\obj\Debug\net6.0\DocGhiFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\DocGhiFile\obj\Debug\net6.0\DocGhiFile.AssemblyInfoInputs.cache
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\DocGhiFile\obj\Debug\net6.0\DocGhiFile.AssemblyInfo.cs
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\DocGhiFile\obj\Debug\net6.0\DocGhiFile.csproj.CoreCompileInputs.cache
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\DocGhiFile\obj\Debug\net6.0\DocGhiFile.dll
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\DocGhiFile\obj\Debug\net6.0\refint\DocGhiFile.dll
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\DocGhiFile\obj\Debug\net6.0\DocGhiFile.pdb
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\DocGhiFile\obj\Debug\net6.0\DocGhiFile.genruntimeconfig.cache
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\DocGhiFile\obj\Debug\net6.0\ref\DocGhiFile.dll

@@ -1,0 +1,15 @@
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\CodeBai2TrenLop\bin\Debug\net6.0\CodeBai2TrenLop.exe
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\CodeBai2TrenLop\bin\Debug\net6.0\CodeBai2TrenLop.deps.json
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\CodeBai2TrenLop\bin\Debug\net6.0\CodeBai2TrenLop.runtimeconfig.json
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\CodeBai2TrenLop\bin\Debug\net6.0\CodeBai2TrenLop.dll
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\CodeBai2TrenLop\bin\Debug\net6.0\CodeBai2TrenLop.pdb
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\CodeBai2TrenLop\obj\Debug\net6.0\CodeBai2TrenLop.csproj.AssemblyReference.cache
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\CodeBai2TrenLop\obj\Debug\net6.0\CodeBai2TrenLop.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\CodeBai2TrenLop\obj\Debug\net6.0\CodeBai2TrenLop.AssemblyInfoInputs.cache
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\CodeBai2TrenLop\obj\Debug\net6.0\CodeBai2TrenLop.AssemblyInfo.cs
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\CodeBai2TrenLop\obj\Debug\net6.0\CodeBai2TrenLop.csproj.CoreCompileInputs.cache
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\CodeBai2TrenLop\obj\Debug\net6.0\CodeBai2TrenLop.dll
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\CodeBai2TrenLop\obj\Debug\net6.0\refint\CodeBai2TrenLop.dll
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\CodeBai2TrenLop\obj\Debug\net6.0\CodeBai2TrenLop.pdb
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\CodeBai2TrenLop\obj\Debug\net6.0\CodeBai2TrenLop.genruntimeconfig.cache
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\CodeBai2TrenLop\obj\Debug\net6.0\ref\CodeBai2TrenLop.dll

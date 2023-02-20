@@ -1,0 +1,15 @@
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\StaticClass\bin\Debug\net6.0\StaticClass.exe
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\StaticClass\bin\Debug\net6.0\StaticClass.deps.json
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\StaticClass\bin\Debug\net6.0\StaticClass.runtimeconfig.json
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\StaticClass\bin\Debug\net6.0\StaticClass.dll
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\StaticClass\bin\Debug\net6.0\StaticClass.pdb
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\StaticClass\obj\Debug\net6.0\StaticClass.csproj.AssemblyReference.cache
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\StaticClass\obj\Debug\net6.0\StaticClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\StaticClass\obj\Debug\net6.0\StaticClass.AssemblyInfoInputs.cache
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\StaticClass\obj\Debug\net6.0\StaticClass.AssemblyInfo.cs
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\StaticClass\obj\Debug\net6.0\StaticClass.csproj.CoreCompileInputs.cache
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\StaticClass\obj\Debug\net6.0\StaticClass.dll
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\StaticClass\obj\Debug\net6.0\refint\StaticClass.dll
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\StaticClass\obj\Debug\net6.0\StaticClass.pdb
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\StaticClass\obj\Debug\net6.0\StaticClass.genruntimeconfig.cache
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\StaticClass\obj\Debug\net6.0\ref\StaticClass.dll

@@ -1,0 +1,15 @@
+C:\OnTap\BaiKiemTra\bin\Debug\net6.0\BaiKiemTra.exe
+C:\OnTap\BaiKiemTra\bin\Debug\net6.0\BaiKiemTra.deps.json
+C:\OnTap\BaiKiemTra\bin\Debug\net6.0\BaiKiemTra.runtimeconfig.json
+C:\OnTap\BaiKiemTra\bin\Debug\net6.0\BaiKiemTra.dll
+C:\OnTap\BaiKiemTra\bin\Debug\net6.0\BaiKiemTra.pdb
+C:\OnTap\BaiKiemTra\obj\Debug\net6.0\BaiKiemTra.csproj.AssemblyReference.cache
+C:\OnTap\BaiKiemTra\obj\Debug\net6.0\BaiKiemTra.GeneratedMSBuildEditorConfig.editorconfig
+C:\OnTap\BaiKiemTra\obj\Debug\net6.0\BaiKiemTra.AssemblyInfoInputs.cache
+C:\OnTap\BaiKiemTra\obj\Debug\net6.0\BaiKiemTra.AssemblyInfo.cs
+C:\OnTap\BaiKiemTra\obj\Debug\net6.0\BaiKiemTra.csproj.CoreCompileInputs.cache
+C:\OnTap\BaiKiemTra\obj\Debug\net6.0\BaiKiemTra.dll
+C:\OnTap\BaiKiemTra\obj\Debug\net6.0\refint\BaiKiemTra.dll
+C:\OnTap\BaiKiemTra\obj\Debug\net6.0\BaiKiemTra.pdb
+C:\OnTap\BaiKiemTra\obj\Debug\net6.0\BaiKiemTra.genruntimeconfig.cache
+C:\OnTap\BaiKiemTra\obj\Debug\net6.0\ref\BaiKiemTra.dll

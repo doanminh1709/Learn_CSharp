@@ -1,0 +1,19 @@
+﻿<Window x:Class="OnTapKtrB2_So2.Windown2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OnTapKtrB2_So2"
+        mc:Ignorable="d"
+        Title="Windown2" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <DataGrid Margin="135,138,98,0" Height="218" VerticalAlignment="Top" Name="dvgKhoa">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Tên khoa" Binding="{Binding Tenkhoa}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Mã khoa" Binding="{Binding Makhoa}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Số người" Width="*"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Window>

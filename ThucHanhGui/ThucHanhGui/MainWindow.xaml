@@ -1,0 +1,82 @@
+﻿<Window x:Class="ThucHanhGui.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ThucHanhGui"
+        mc:Ignorable="d"
+        Title="Quản lý sinh viên" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="539*"/>
+            <ColumnDefinition Width="261*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.ColumnSpan="2">
+            <StackPanel.Resources>
+                <Image x:Key="student" Source="Resources/student.png" Width="16" Height="16"/>
+                <Image x:Key="people" Source="Resources/people.png" Width="16" Height="16"/>
+                <Image x:Key="list" Source="Resources/list.png" Width="16" Height="16"/>
+                <Image x:Key="search" Source="Resources/search.png" Width="16" Height="16"/>
+                <Image x:Key="statistical" Source="Resources/statistical.png" Width="16" Height="16"/>
+                <Image x:Key="exit" Source="Resources/exit.png" Width="16" Height="16"/>
+            </StackPanel.Resources>
+            <Menu Height="26" Name="Menu" RenderTransformOrigin="0.5,0.5" Width="799">
+                <Menu.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform AngleX="0.3"/>
+                        <RotateTransform/>
+                        <TranslateTransform X="0.261"/>
+                    </TransformGroup>
+                </Menu.RenderTransform>
+                <MenuItem Header="Hệ thống "/>
+                <MenuItem Header="Chức năng "/>
+                <MenuItem Header="Hỗ trợ" Click="MenuItem_Click_Sp"/>
+            </Menu>
+            <ToolBar x:Name="toolbar" Height="29" Width="798" RenderTransformOrigin="0.5,0.5">
+                    <Button  Click="Click_NhapSv" Height="25" Width="23" Name="button1" HorizontalAlignment="Left" VerticalAlignment="Top">
+                    <Image Source="Resources/student.png" HorizontalAlignment="Center" RenderTransformOrigin="0.729,1.614" Height="28"/>
+                </Button>
+                <Label>Sinh viên</Label>
+                <Separator/>
+
+
+                <Button Height="25" Width="23" Click="Click_NhapKhoa" Name="button2" HorizontalAlignment="Left" VerticalAlignment="Top">
+                    <Image Source="Resources/people.png" HorizontalAlignment="Center" RenderTransformOrigin="0.729,1.614" Height="28"/>
+                </Button>
+                <Label>Khoa</Label>
+                <Separator/>
+
+                <Button Height="25" Width="23" Name="button3" HorizontalAlignment="Left" VerticalAlignment="Top">
+                    <Image Source="Resources/subject.png" HorizontalAlignment="Center" RenderTransformOrigin="0.729,1.614" Height="28"/>
+                </Button>
+                <Label>Môn học</Label>
+                <Separator/>
+
+                <Button Height="25" Width="23" Name="button4" HorizontalAlignment="Left" VerticalAlignment="Top">
+                    <Image Source="Resources/list.png" HorizontalAlignment="Center" RenderTransformOrigin="0.729,1.614" Height="28"/>
+                </Button>
+                <Label>Nhập điểm</Label>
+                <Separator/>
+
+                <Button Height="25" Width="23" Name="button5" HorizontalAlignment="Left" VerticalAlignment="Top">
+                    <Image Source="Resources/search.png" HorizontalAlignment="Center" RenderTransformOrigin="0.729,1.614" Height="28"/>
+                </Button>
+                <Label>Xem điểm</Label>
+                <Separator/>
+
+                <Button Height="25" Width="23" Name="button6" HorizontalAlignment="Left" VerticalAlignment="Top">
+                    <Image Source="Resources/statistical.png" HorizontalAlignment="Center" RenderTransformOrigin="0.729,1.614" Height="28"/>
+                </Button>
+                <Label Width="230">Thống kê khoa</Label>
+
+                <Button  Height="25" Width="23" Name="button7" HorizontalAlignment="Right" VerticalAlignment="Top">
+                    <Image Source="Resources/exit.png" HorizontalAlignment="Left" RenderTransformOrigin="0.729,1.614" Height="28"/>
+                </Button>
+                <Label>Thoát</Label>
+
+
+            </ToolBar>
+        </StackPanel>
+    </Grid>
+</Window>

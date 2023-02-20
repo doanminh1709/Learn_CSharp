@@ -1,0 +1,15 @@
+D:\CODETONGHOP\Learn C#\BTVN_Buoi1\BTVN_Buoi1\bin\Debug\net6.0\BTVN_Buoi1.exe
+D:\CODETONGHOP\Learn C#\BTVN_Buoi1\BTVN_Buoi1\bin\Debug\net6.0\BTVN_Buoi1.deps.json
+D:\CODETONGHOP\Learn C#\BTVN_Buoi1\BTVN_Buoi1\bin\Debug\net6.0\BTVN_Buoi1.runtimeconfig.json
+D:\CODETONGHOP\Learn C#\BTVN_Buoi1\BTVN_Buoi1\bin\Debug\net6.0\BTVN_Buoi1.dll
+D:\CODETONGHOP\Learn C#\BTVN_Buoi1\BTVN_Buoi1\bin\Debug\net6.0\BTVN_Buoi1.pdb
+D:\CODETONGHOP\Learn C#\BTVN_Buoi1\BTVN_Buoi1\obj\Debug\net6.0\BTVN_Buoi1.csproj.AssemblyReference.cache
+D:\CODETONGHOP\Learn C#\BTVN_Buoi1\BTVN_Buoi1\obj\Debug\net6.0\BTVN_Buoi1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODETONGHOP\Learn C#\BTVN_Buoi1\BTVN_Buoi1\obj\Debug\net6.0\BTVN_Buoi1.AssemblyInfoInputs.cache
+D:\CODETONGHOP\Learn C#\BTVN_Buoi1\BTVN_Buoi1\obj\Debug\net6.0\BTVN_Buoi1.AssemblyInfo.cs
+D:\CODETONGHOP\Learn C#\BTVN_Buoi1\BTVN_Buoi1\obj\Debug\net6.0\BTVN_Buoi1.csproj.CoreCompileInputs.cache
+D:\CODETONGHOP\Learn C#\BTVN_Buoi1\BTVN_Buoi1\obj\Debug\net6.0\BTVN_Buoi1.dll
+D:\CODETONGHOP\Learn C#\BTVN_Buoi1\BTVN_Buoi1\obj\Debug\net6.0\refint\BTVN_Buoi1.dll
+D:\CODETONGHOP\Learn C#\BTVN_Buoi1\BTVN_Buoi1\obj\Debug\net6.0\BTVN_Buoi1.pdb
+D:\CODETONGHOP\Learn C#\BTVN_Buoi1\BTVN_Buoi1\obj\Debug\net6.0\BTVN_Buoi1.genruntimeconfig.cache
+D:\CODETONGHOP\Learn C#\BTVN_Buoi1\BTVN_Buoi1\obj\Debug\net6.0\ref\BTVN_Buoi1.dll

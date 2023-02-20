@@ -1,0 +1,15 @@
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\Inheritance\bin\Debug\net6.0\Inheritance.exe
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\Inheritance\bin\Debug\net6.0\Inheritance.deps.json
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\Inheritance\bin\Debug\net6.0\Inheritance.runtimeconfig.json
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\Inheritance\bin\Debug\net6.0\Inheritance.dll
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\Inheritance\bin\Debug\net6.0\Inheritance.pdb
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\Inheritance\obj\Debug\net6.0\Inheritance.csproj.AssemblyReference.cache
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\Inheritance\obj\Debug\net6.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfoInputs.cache
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfo.cs
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\Inheritance\obj\Debug\net6.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\Inheritance\obj\Debug\net6.0\Inheritance.dll
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\Inheritance\obj\Debug\net6.0\refint\Inheritance.dll
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\Inheritance\obj\Debug\net6.0\Inheritance.pdb
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\Inheritance\obj\Debug\net6.0\Inheritance.genruntimeconfig.cache
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\Inheritance\obj\Debug\net6.0\ref\Inheritance.dll

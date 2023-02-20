@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DataGridView-AutoFilter/1.1.0": {
+        "runtime": {
+          "lib/net20/DataGridViewAutoFilter.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataGridView-AutoFilter/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QPaTjR+Krge2K2Vv5jxMBNAKR0I1Z1xX+ML2C8PyVwnckyMwPFoZnjg7Lq6oHh4iWpAIHlPFapX59EVHW0wDsg==",
+      "path": "datagridview-autofilter/1.1.0",
+      "hashPath": "datagridview-autofilter.1.1.0.nupkg.sha512"
+    }
+  }
+}

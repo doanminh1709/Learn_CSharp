@@ -1,0 +1,15 @@
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\OPP\bin\Debug\net6.0\OPP.exe
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\OPP\bin\Debug\net6.0\OPP.deps.json
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\OPP\bin\Debug\net6.0\OPP.runtimeconfig.json
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\OPP\bin\Debug\net6.0\OPP.dll
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\OPP\bin\Debug\net6.0\OPP.pdb
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\OPP\obj\Debug\net6.0\OPP.csproj.AssemblyReference.cache
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\OPP\obj\Debug\net6.0\OPP.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\OPP\obj\Debug\net6.0\OPP.AssemblyInfoInputs.cache
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\OPP\obj\Debug\net6.0\OPP.AssemblyInfo.cs
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\OPP\obj\Debug\net6.0\OPP.csproj.CoreCompileInputs.cache
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\OPP\obj\Debug\net6.0\OPP.dll
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\OPP\obj\Debug\net6.0\refint\OPP.dll
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\OPP\obj\Debug\net6.0\OPP.pdb
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\OPP\obj\Debug\net6.0\OPP.genruntimeconfig.cache
+D:\CODETONGHOP\Learn C#\OPP_IN_CSHARP\OPP\obj\Debug\net6.0\ref\OPP.dll

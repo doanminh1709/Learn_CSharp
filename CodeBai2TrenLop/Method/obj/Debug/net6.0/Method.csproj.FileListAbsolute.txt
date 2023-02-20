@@ -1,0 +1,15 @@
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\Method\bin\Debug\net6.0\Method.exe
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\Method\bin\Debug\net6.0\Method.deps.json
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\Method\bin\Debug\net6.0\Method.runtimeconfig.json
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\Method\bin\Debug\net6.0\Method.dll
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\Method\bin\Debug\net6.0\Method.pdb
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\Method\obj\Debug\net6.0\Method.csproj.AssemblyReference.cache
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\Method\obj\Debug\net6.0\Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\Method\obj\Debug\net6.0\Method.AssemblyInfoInputs.cache
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\Method\obj\Debug\net6.0\Method.AssemblyInfo.cs
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\Method\obj\Debug\net6.0\Method.csproj.CoreCompileInputs.cache
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\Method\obj\Debug\net6.0\Method.dll
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\Method\obj\Debug\net6.0\refint\Method.dll
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\Method\obj\Debug\net6.0\Method.pdb
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\Method\obj\Debug\net6.0\Method.genruntimeconfig.cache
+D:\CODETONGHOP\Learn C#\CodeBai2TrenLop\Method\obj\Debug\net6.0\ref\Method.dll

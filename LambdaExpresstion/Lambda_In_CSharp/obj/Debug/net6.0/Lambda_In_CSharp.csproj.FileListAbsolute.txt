@@ -1,0 +1,15 @@
+D:\CODETONGHOP\Learn C#\Lambda_In_CSharp\Lambda_In_CSharp\bin\Debug\net6.0\Lambda_In_CSharp.exe
+D:\CODETONGHOP\Learn C#\Lambda_In_CSharp\Lambda_In_CSharp\bin\Debug\net6.0\Lambda_In_CSharp.deps.json
+D:\CODETONGHOP\Learn C#\Lambda_In_CSharp\Lambda_In_CSharp\bin\Debug\net6.0\Lambda_In_CSharp.runtimeconfig.json
+D:\CODETONGHOP\Learn C#\Lambda_In_CSharp\Lambda_In_CSharp\bin\Debug\net6.0\Lambda_In_CSharp.dll
+D:\CODETONGHOP\Learn C#\Lambda_In_CSharp\Lambda_In_CSharp\bin\Debug\net6.0\Lambda_In_CSharp.pdb
+D:\CODETONGHOP\Learn C#\Lambda_In_CSharp\Lambda_In_CSharp\obj\Debug\net6.0\Lambda_In_CSharp.csproj.AssemblyReference.cache
+D:\CODETONGHOP\Learn C#\Lambda_In_CSharp\Lambda_In_CSharp\obj\Debug\net6.0\Lambda_In_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODETONGHOP\Learn C#\Lambda_In_CSharp\Lambda_In_CSharp\obj\Debug\net6.0\Lambda_In_CSharp.AssemblyInfoInputs.cache
+D:\CODETONGHOP\Learn C#\Lambda_In_CSharp\Lambda_In_CSharp\obj\Debug\net6.0\Lambda_In_CSharp.AssemblyInfo.cs
+D:\CODETONGHOP\Learn C#\Lambda_In_CSharp\Lambda_In_CSharp\obj\Debug\net6.0\Lambda_In_CSharp.csproj.CoreCompileInputs.cache
+D:\CODETONGHOP\Learn C#\Lambda_In_CSharp\Lambda_In_CSharp\obj\Debug\net6.0\Lambda_In_CSharp.dll
+D:\CODETONGHOP\Learn C#\Lambda_In_CSharp\Lambda_In_CSharp\obj\Debug\net6.0\refint\Lambda_In_CSharp.dll
+D:\CODETONGHOP\Learn C#\Lambda_In_CSharp\Lambda_In_CSharp\obj\Debug\net6.0\Lambda_In_CSharp.pdb
+D:\CODETONGHOP\Learn C#\Lambda_In_CSharp\Lambda_In_CSharp\obj\Debug\net6.0\Lambda_In_CSharp.genruntimeconfig.cache
+D:\CODETONGHOP\Learn C#\Lambda_In_CSharp\Lambda_In_CSharp\obj\Debug\net6.0\ref\Lambda_In_CSharp.dll
